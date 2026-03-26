@@ -1,3 +1,3 @@
 </> MARKDOWN
 # Premier projet
-** Objectif: ** Git + GitHub
+**Objectif: **Git + GitHub
